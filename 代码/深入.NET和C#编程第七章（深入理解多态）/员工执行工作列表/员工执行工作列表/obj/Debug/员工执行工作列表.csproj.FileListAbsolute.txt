@@ -1,0 +1,11 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\bin\Debug\员工执行工作列表.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\obj\Debug\员工执行工作列表.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\obj\Debug\员工执行工作列表.FrmCodeExe.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\obj\Debug\员工执行工作列表.FrmTestExe.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\obj\Debug\员工执行工作列表.Properties.Resources.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\obj\Debug\员工执行工作列表.csproj.GenerateResource.Cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\bin\Debug\员工执行工作列表.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\bin\Debug\员工执行工作列表.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\obj\Debug\员工执行工作列表.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\obj\Debug\员工执行工作列表.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第七章（深入理解多态）\员工执行工作列表\员工执行工作列表\obj\Debug\员工执行工作列表.FrmJobs.resources

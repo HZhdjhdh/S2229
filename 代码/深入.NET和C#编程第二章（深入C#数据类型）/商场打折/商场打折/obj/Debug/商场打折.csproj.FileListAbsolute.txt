@@ -1,0 +1,6 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\商场打折\商场打折\bin\Debug\商场打折.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\商场打折\商场打折\bin\Debug\商场打折.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\商场打折\商场打折\bin\Debug\商场打折.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\商场打折\商场打折\obj\Debug\商场打折.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\商场打折\商场打折\obj\Debug\商场打折.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\商场打折\商场打折\obj\Debug\商场打折.csprojResolveAssemblyReference.cache

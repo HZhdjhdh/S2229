@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book>
+    <bookid>1</bookid>
+    <bookName>世界与和平</bookName>
+    <bookPrice>80</bookPrice>
+    </book>
+  <book>
+    <bookid>2</bookid>
+    <bookName>登录</bookName>
+    <bookPrice>40</bookPrice>
+    </book>
+    <book>
+    <bookid>3</bookid>
+    <bookName>狼</bookName>
+    <bookPrice>30</bookPrice>
+    </book>
+</books>

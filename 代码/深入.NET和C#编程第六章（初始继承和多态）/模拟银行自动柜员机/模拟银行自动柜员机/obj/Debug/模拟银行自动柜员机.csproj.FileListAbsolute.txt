@@ -1,0 +1,12 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\bin\Debug\模拟银行自动柜员机.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\bin\Debug\模拟银行自动柜员机.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\bin\Debug\模拟银行自动柜员机.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\obj\Debug\模拟银行自动柜员机.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\obj\Debug\模拟银行自动柜员机.MainForm.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\obj\Debug\模拟银行自动柜员机.Properties.Resources.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\obj\Debug\模拟银行自动柜员机.csproj.GenerateResource.Cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\obj\Debug\模拟银行自动柜员机.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\模拟银行自动柜员机\模拟银行自动柜员机\obj\Debug\模拟银行自动柜员机.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第六章（初始继承和多态）\模拟银行自动柜员机\模拟银行自动柜员机\bin\Debug\模拟银行自动柜员机.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第六章（初始继承和多态）\模拟银行自动柜员机\模拟银行自动柜员机\obj\Debug\模拟银行自动柜员机.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第六章（初始继承和多态）\模拟银行自动柜员机\模拟银行自动柜员机\obj\Debug\模拟银行自动柜员机.pdb

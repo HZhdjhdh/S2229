@@ -1,0 +1,16 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\bin\Debug\KTV后台.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\bin\Debug\KTV后台.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\bin\Debug\KTV后台.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.Properties.Resources.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.csproj.GenerateResource.Cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.denglu.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.chaxun.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.geshouchaxun.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.tianjiagequ.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.tianjiageshou.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.chaxungequ.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.gequlujing.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV后台\KTV后台\obj\Debug\KTV后台.geshoutuplujing.resources

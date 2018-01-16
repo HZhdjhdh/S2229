@@ -1,0 +1,17 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\bin\Debug\第二章.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\bin\Debug\第二章.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\bin\Debug\第二章.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.Form1.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.Properties.Resources.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.csproj.GenerateResource.Cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.Form2.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.Form3.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.Form4.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.Form5.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章\第二章\obj\Debug\第二章.Form6.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章各查询题型\第二章\bin\Debug\第二章.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章各查询题型\第二章\obj\Debug\第二章.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\第四本书\第二章各查询题型\第二章\obj\Debug\第二章.pdb

@@ -1,0 +1,12 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\更新会员积分\更新会员积分\bin\Debug\更新会员积分.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\更新会员积分\更新会员积分\bin\Debug\更新会员积分.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\更新会员积分\更新会员积分\bin\Debug\更新会员积分.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\更新会员积分\更新会员积分\obj\Debug\更新会员积分.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\更新会员积分\更新会员积分\obj\Debug\更新会员积分.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\项目经理评分\更新会员积分\更新会员积分\obj\Debug\更新会员积分.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第二章\更新会员积分\更新会员积分\bin\Debug\更新会员积分.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第二章\更新会员积分\更新会员积分\obj\Debug\更新会员积分.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第二章\更新会员积分\更新会员积分\obj\Debug\更新会员积分.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第二章\更新会员积分\更新会员积分\bin\Debug\更新会员积分.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第二章\更新会员积分\更新会员积分\bin\Debug\更新会员积分.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第二章\更新会员积分\更新会员积分\obj\Debug\更新会员积分.csprojResolveAssemblyReference.cache

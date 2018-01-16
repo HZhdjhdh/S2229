@@ -1,0 +1,11 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\bin\Debug\考勤信息管理.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\obj\Debug\考勤信息管理.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\obj\Debug\考勤信息管理.FrmMian.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\obj\Debug\考勤信息管理.Frmmiin.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\obj\Debug\考勤信息管理.Properties.Resources.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\obj\Debug\考勤信息管理.csproj.GenerateResource.Cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\bin\Debug\考勤信息管理.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\bin\Debug\考勤信息管理.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\obj\Debug\考勤信息管理.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\obj\Debug\考勤信息管理.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第三章\考勤信息管理\考勤信息管理\obj\Debug\考勤信息管理.FrmQing.resources

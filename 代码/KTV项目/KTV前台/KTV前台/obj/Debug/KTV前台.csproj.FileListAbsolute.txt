@@ -1,0 +1,14 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\bin\Debug\KTV前台.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\bin\Debug\KTV前台.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\bin\Debug\KTV前台.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\KTV前台.Form1.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\KTV前台.Properties.Resources.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\KTV前台.csproj.GenerateResource.Cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\KTV前台.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\KTV前台.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\KTV前台.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\bin\Debug\Interop.WMPLib.dll
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\Interop.WMPLib.dll
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\KTV项目\KTV前台\KTV前台\obj\Debug\KTV前台.csproj.ResolveComReference.cache

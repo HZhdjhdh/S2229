@@ -1,0 +1,12 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\bin\Debug\实现工作汇报.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\obj\Debug\实现工作汇报.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\obj\Debug\实现工作汇报.MyOffice.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\obj\Debug\实现工作汇报.Properties.Resources.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\obj\Debug\实现工作汇报.csproj.GenerateResource.Cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\bin\Debug\实现工作汇报.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\bin\Debug\实现工作汇报.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\obj\Debug\实现工作汇报.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#第六章\实现工作汇报\实现工作汇报\obj\Debug\实现工作汇报.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第六章（初始继承和多态）\实现工作汇报\实现工作汇报\bin\Debug\实现工作汇报.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第六章（初始继承和多态）\实现工作汇报\实现工作汇报\obj\Debug\实现工作汇报.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第六章（初始继承和多态）\实现工作汇报\实现工作汇报\obj\Debug\实现工作汇报.pdb

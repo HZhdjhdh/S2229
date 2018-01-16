@@ -1,0 +1,15 @@
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\bin\Debug\单列播放.exe.config
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\bin\Debug\单列播放.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\bin\Debug\单列播放.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\单列播放.csprojResolveAssemblyReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\单列播放.Form1.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\单列播放.Properties.Resources.resources
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\单列播放.csproj.GenerateResource.Cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\单列播放.exe
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\单列播放.pdb
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\bin\Debug\Interop.WMPLib.dll
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\Interop.WMPLib.dll
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\单列播放.csproj.ResolveComReference.cache
+C:\Users\win-10\Documents\Visual Studio 2012\Projects\代码\深入.NET和C#编程第八章（可扩展标记语言XML）\单列播放\单列播放\obj\Debug\单列播放.Play.resources
